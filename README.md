@@ -1,2 +1,3 @@
 # My-Pushup-Calculator
-Pose detection using OpenCV
+
+Calculating count of pushups using OpenCV architecture
