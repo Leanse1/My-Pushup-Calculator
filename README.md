@@ -1,3 +1,4 @@
 # My-Pushup-Calculator
 
-Calculating count of pushups using OpenCV architecture
+Calculating count of pushups using OpenCV architecture in Pycharm
+
